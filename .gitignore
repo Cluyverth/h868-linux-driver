@@ -1,0 +1,12 @@
+/src/
+/Cargo.toml
+/Cargo.lock
+/mise.toml
+/target/
+/kernel/*.o
+/kernel/*.ko
+/kernel/*.mod
+/kernel/*.mod.c
+/kernel/.*.cmd
+/kernel/Module.symvers
+/kernel/modules.order
